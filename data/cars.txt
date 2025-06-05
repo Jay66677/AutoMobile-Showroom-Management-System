@@ -1,0 +1,11 @@
+1|VIN10002|Mercedes C-Class|Silver|56.75|Petrol|Sedan
+2|VIN20001|Toyota Fortuner|White|38.60|Diesel|SUV
+2|VIN20002|Kia Seltos|Red|15.80|Petrol|SUV
+2|VIN20003|Honda City|Silver|19.50|Petrol|Sedan
+3|VIN30001|Maruti Swift|Red|16.20|Petrol|Hatchback
+3|VIN30002|Hyundai Creta|Blue|24.50|Diesel|SUV
+4|VIN40001|Mahindra XUV700|Black|25.70|Diesel|SUV
+4|VIN40002|Tata Nexon|White|18.40|Petrol|SUV
+4|VIN40003|Maruti Baleno|Silver|15.20|Petrol|Hatchback
+5|VIN50001|Hyundai i20|Blue|16.80|Petrol|Hatchback
+5|VIN50002|Skoda Octavia|Black|32.40|Petrol|Sedan

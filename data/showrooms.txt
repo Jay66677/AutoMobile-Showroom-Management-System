@@ -1,0 +1,5 @@
+1|Luxury Motors|Mumbai Central|9876543210|48|37
+2|Supreme Cars|Delhi NCR|9876543211|51|51
+3|Elite Autos|Bangalore East|9876543212|34|34
+4|Royal Wheels|Chennai Downtown|9876543213|51|34
+5|Prime Vehicles|Hyderabad Heights|9876543214|34|51
